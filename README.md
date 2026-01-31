@@ -36,11 +36,5 @@ Each notebook contains detailed steps for model training, fine-tuning, and infer
 - **Web Application**: Development of a Flask-based web application to make the model accessible to a broader audience.
 - **Model Enhancement**: Ongoing research to further improve the model's accuracy and efficiency.
 
-## Contributions and Queries
 
-We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
 
--Krishna Mahalka
--Rahul Jat
-- Email: [krishnamahalka3@gmail.com](krishnamahalka3@gmail.com)
-- Email: [rahuljat13290@gmail.com](rahuljat13290@gmail.com)
